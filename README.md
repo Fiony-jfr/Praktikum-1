@@ -2,6 +2,7 @@
 ---
 title: "Metode Regula Falsi"
 author: "Ja'far Abdurrahman Shidiq"
+NRP: 5025241208
 ---
 
 # 📘 Pendahuluan
